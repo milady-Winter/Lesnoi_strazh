@@ -1,0 +1,4 @@
+pymavlink==2.4.37
+pyserial==3.5
+numpy==1.26.0
+requests==2.31.0
